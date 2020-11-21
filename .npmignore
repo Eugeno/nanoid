@@ -1,13 +1,9 @@
-node_modules/
 yarn-error.log
 yarn.lock
 
-.editorconfig
 test/
+tsconfig.json
 coverage/
-.travis.yml
-api.md
-.gitpod.yml
 
 img/
-.cache
+.parcel-cache
